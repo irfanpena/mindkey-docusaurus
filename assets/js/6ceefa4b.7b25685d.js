@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmindkey=self.webpackChunkmindkey||[]).push([[1286],{49127:e=>{e.exports={}}}]);
